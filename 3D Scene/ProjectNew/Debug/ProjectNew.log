@@ -1,0 +1,11 @@
+﻿  Main.cpp
+E:\SNHU Assignments\CS-330-R3325 Comp Graphic and Visualization\Module 7\ProjectNew\Main.cpp(140,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\SNHU Assignments\CS-330-R3325 Comp Graphic and Visualization\Module 7\ProjectNew\Main.cpp(270,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\SNHU Assignments\CS-330-R3325 Comp Graphic and Visualization\Module 7\ProjectNew\Main.cpp(315,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\SNHU Assignments\CS-330-R3325 Comp Graphic and Visualization\Module 7\ProjectNew\Main.cpp(316,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\SNHU Assignments\CS-330-R3325 Comp Graphic and Visualization\Module 7\ProjectNew\Main.cpp(320,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\SNHU Assignments\CS-330-R3325 Comp Graphic and Visualization\Module 7\ProjectNew\Main.cpp(321,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\SNHU Assignments\CS-330-R3325 Comp Graphic and Visualization\Module 7\ProjectNew\Main.cpp(323,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\SNHU Assignments\CS-330-R3325 Comp Graphic and Visualization\Module 7\ProjectNew\Main.cpp(324,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ProjectNew.vcxproj -> E:\SNHU Assignments\CS-330-R3325 Comp Graphic and Visualization\Module 7\ProjectNew\Debug\ProjectNew.exe
